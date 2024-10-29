@@ -19,3 +19,14 @@ Before you begin, ensure you have the following installed:
 - OpenGL development libraries (GL, GLU, GLUT)
 - A C compiler (GCC, Clang, etc.)
 - Basic knowledge of C programming and OpenGL
+
+## Change texture
+
+replace wall.jpg image with your texture.
+
+## Video Demo
+
+<video controls width="600">
+  <source src="https://github.com/AdityaGhosh1008/Texture-mapping-on-rotating-cube/blob/fba6af5e3a7026723a35923911baf43e6acd5dbe/Texture%20Mapping/Screencast%20from%2016-11-22%2005_34_28%20PM%20IST.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
